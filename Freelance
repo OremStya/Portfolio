@@ -39,9 +39,14 @@
 <body>
   <h1>Musician's Portfolio</h1>
   <div class="card">
-    <img src="https://www.canva.com/design/DAFac5ZPt-E/6VcyC__HbFaOS4iEu-RO9A/watch?utm_content=DAFac5ZPt-E&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" alt="Musician's Cover Image">
-    <h2>Oremstya</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim ornare nisi, vitae mattis nulla ante id dui.</p>
-  </div>
+  <img src="https://via.placeholder.com/400x200" alt="Musician's Cover Image">
+  <h2>Oremstya</h2>
+  <p>Indie/Pop artist who is freelancing to improve his skills in this field.</p><br>
+  <p>Listen to some of his works:-</p><br>
+  <audio controls>
+    <source src="yaara-oremstya.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
 </body>
 </html>
