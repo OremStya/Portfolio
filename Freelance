@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Oremstyas's Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+    .card {
+      width: 400px;
+      height: 300px;
+      margin: 20px auto;
+      border: 1px solid black;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    }
+    .card img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+    .card h2 {
+      font-size: 24px;
+      margin: 20px;
+    }
+    .card p {
+      font-size: 14px;
+      margin: 20px;
+      text-align: justify;
+    }
+  </style>
+</head>
+<body>
+  <h1>Musician's Portfolio</h1>
+  <div class="card">
+    <img src="https://www.canva.com/design/DAFac5ZPt-E/6VcyC__HbFaOS4iEu-RO9A/watch?utm_content=DAFac5ZPt-E&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" alt="Musician's Cover Image">
+    <h2>Oremstya</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim ornare nisi, vitae mattis nulla ante id dui.</p>
+  </div>
+</body>
+</html>
